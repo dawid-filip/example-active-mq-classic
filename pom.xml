@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.pl.df.example</groupId>
-	<artifactId>example-active-mq-classic</artifactId>
+	<artifactId>example-activemq-classic</artifactId>
 	<version>0.0.1</version>
-	<name>example-active-mq-classic</name>
-	<description>example-active-mq-classic</description>
+	<name>example-activemq-classic</name>
+	<description>example-activemq-classic</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

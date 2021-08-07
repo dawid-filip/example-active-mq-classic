@@ -1,4 +1,4 @@
-# The example-active-mq-classic
+# The example-activemq-classic
 Simple example of ActiveMq Classic implementation.
 After application start-up it will send up 2 messages on the queue and then application will pull and read sent messaged. This will recur every 10 seconds.
 

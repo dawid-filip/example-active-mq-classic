@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActiveMqClassicApplication {
+public class ActivemqClassicApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ActiveMqClassicApplication.class, args);
+		SpringApplication.run(ActivemqClassicApplication.class, args);
 	}
 
 }
